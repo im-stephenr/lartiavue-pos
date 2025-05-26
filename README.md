@@ -7,4 +7,5 @@
 <li>Add Category</li>
 <li>Update Profile</li>
 <li>Dashboard with Reports such as Monthly/Weekly Sales, Transaction history, and number of sold per Product</li>
+<li>POS</li>
 </ul>
